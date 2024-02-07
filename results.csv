@@ -1,0 +1,950 @@
+Season,HomeTeam,AwayTeam,FTR
+2000-01,Chelsea,West Ham,H
+2000-01,Coventry,Middlesbrough,A
+2000-01,Derby,Southampton,D
+2000-01,Leeds,Everton,H
+2000-01,Leicester,Aston Villa,D
+2000-01,Liverpool,Bradford,H
+2000-01,Sunderland,Arsenal,H
+2000-01,Tottenham,Ipswich,H
+2000-01,Man United,Newcastle,H
+2000-01,Arsenal,Liverpool,H
+2000-01,Bradford,Chelsea,H
+2000-01,Ipswich,Man United,D
+2000-01,Middlesbrough,Tottenham,D
+2000-01,Everton,Charlton,H
+2000-01,Man City,Sunderland,H
+2000-01,Newcastle,Derby,H
+2000-01,Southampton,Coventry,A
+2000-01,West Ham,LeicesterA
+2000-01,Arsenal,Charlton,H
+2000-01,Bradford,Leicester,D
+2000-01,Everton,Derby,D
+2000-01,Ipswich,Sunderland,H
+2000-01,Man City,Coventry,A
+2000-01,Middlesbrough,Leeds,A
+2000-01,Newcastle,Tottenham,H
+2000-01,Southampton,Liverpool,D
+2000-01,West Ham,Man United,D
+2000-01,Aston Villa,Chelsea,D
+2000-01,Leeds,Man City,A
+2000-01,Man United,Bradford,H
+2000-01,Sunderland,West Ham,D
+2000-01,Tottenham,Everton,H
+2000-01,Charlton,Southampton,D
+2000-01,Chelsea,Arsenal,D
+2000-01,Coventry,Newcastle,A
+2000-01,Derby,Middlesbrough,D
+2000-01,Leicester,Ipswich,H
+2000-01,Liverpool,Aston Villa,H
+2000-01,Bradford,Arsenal,D
+2000-01,Coventry,Leeds,D
+2000-01,Ipswich,Aston Villa,A
+2000-01,Leicester,Southampton,H
+2000-01,Liverpool,Man City,H
+2000-01,Man United,Sunderland,H
+2000-01,Middlesbrough,Everton,A
+2000-01,Newcastle,Chelsea,D
+2000-01,Derby,Charlton,D
+2000-01,Tottenham,West Ham,H
+2000-01,Arsenal,Coventry,H
+2000-01,Aston Villa,Bradford,H
+2000-01,Charlton,Tottenham,H
+2000-01,Everton,Man United,A
+2000-01,Leeds,Ipswich,A
+2000-01,Southampton,Newcastle,H
+2000-01,Sunderland,Derby,H
+2000-01,Chelsea,Leicester,A
+2000-01,Man City,Middlesbrough,D
+2000-01,West Ham,Liverpool,D
+2000-01,Bradford,Southampton,A
+2000-01,Coventry,West Ham,A
+2000-01,Derby,Leeds,D
+2000-01,Ipswich,Arsenal,D
+2000-01,Liverpool,Sunderland,D
+2000-01,Man United,Chelsea,D
+2000-01,Middlesbrough,Aston Villa,D
+2000-01,Newcastle,Charlton,A
+2000-01,Tottenham,Man City,D
+2000-01,Leicester,Everton,D
+2000-01,Aston Villa,Derby,H
+2000-01,Charlton,Coventry,D
+2000-01,Everton,Ipswich,A
+2000-01,Leeds,Tottenham,H
+2000-01,Man City,Newcastle,A
+2000-01,Southampton,Middlesbrough,A
+2000-01,West Ham,Bradford,D
+2000-01,Arsenal,Man United,H
+2000-01,Chelsea,Liverpool,H
+2000-01,Sunderland,Leicester,D
+2000-01,Arsenal,Aston Villa,H
+2000-01,Coventry,Tottenham,H
+2000-01,Everton,Southampton,D
+2000-01,Ipswich,West Ham,D
+2000-01,Leeds,Charlton,H
+2000-01,Leicester,Man United,A
+2000-01,Man City,Bradford,H
+2000-01,Sunderland,Chelsea,H
+2000-01,West Ham,Newcastle,H
+2000-01,Bradford,Leeds,D
+2000-01,Liverpool,Everton,H
+2000-01,Charlton,Bradford,H
+2000-01,Coventry,Man United,A
+2000-01,Leeds,Liverpool,H
+2000-01,Man City,Leicester,A
+2000-01,Middlesbrough,Arsenal,A
+2000-01,Newcastle,Ipswich,H
+2000-01,Southampton,Chelsea,H
+2000-01,Tottenham,Sunderland,H
+2000-01,Everton,Aston Villa,A
+2000-01,Derby,West Ham,D
+2000-01,Arsenal,Derby,D
+2000-01,Aston Villa,Tottenham,H
+2000-01,Bradford,Everton,A
+2000-01,Ipswich,Charlton,H
+2000-01,Leicester,Newcastle,D
+2000-01,Man United,Middlesbrough,H
+2000-01,Sunderland,Southampton,D
+2000-01,West Ham,Man City,H
+2000-01,Chelsea,Leeds,D
+2000-01,Liverpool,Coventry,H
+2000-01,Charlton,Chelsea,H
+2000-01,Derby,Bradford,H
+2000-01,Everton,Arsenal,H
+2000-01,Leeds,West Ham,A
+2000-01,Man City,Man United,A
+2000-01,Middlesbrough,Leicester,A
+2000-01,Newcastle,Sunderland,A
+2000-01,Southampton,Aston Villa,H
+2000-01,Tottenham,Liverpool,H
+2000-01,Coventry,Ipswich,A
+2000-01,Charlton,Sunderland,A
+2000-01,Coventry,Aston Villa,D
+2000-01,Derby,Man United,A
+2000-01,Everton,Chelsea,H
+2000-01,Man City,Ipswich,A
+2000-01,Middlesbrough,Leeds,H
+2000-01,Southampton,Leicester,H
+2000-01,Tottenham,Bradford,D
+2000-01,Liverpool,Arsenal,H
+2000-01,West Ham,Newcastle,D
+2000-01,Aston Villa,Man City,D
+2000-01,Bradford,Coventry,H
+2000-01,Ipswich,Southampton,H
+2000-01,Leeds,Charlton,D
+2000-01,Leicester,Derby,H
+2000-01,Man United,West Ham,H
+2000-01,Newcastle,Liverpool,H
+2000-01,Sunderland,Everton,D
+2000-01,Charlton,West Ham,H
+2000-01,Chelsea,Man United,H
+2000-01,Coventry,Sunderland,H
+2000-01,Derby,Southampton,A
+2000-01,Leeds,Bradford,H
+2000-01,Leicester,Evern,D
+2000-01,Liverpool,Ipich,H
+2000-01,Man City,Newcase,D
+2000-01,Middlesbrou,Tottenham,H
+2000-01,Sunderland,Chaton,H
+2000-01,West Ham,Aston lla,H
+2000-01,Arsenal,Chels,H
+2000-01,Ipswich,Leicester,A
+2000-01,Bradford,Man ty,A
+2000-01,Charlton,Arnal,D
+2000-01,Ipswich,West Ham,H
+2000-01,Leicester,Coventry,A
+2000-01,Liverpool,Middlbrough,H
+2000-01,Aston Villa,Leeds,D
+2000-01,Everton,Sunderland,D
+2000-01,Man United,Newcastle,H
+2000-01,Tottenham,Southampton,A
+2000-01,Derby,Charlton,D
+2000-01,Ipswich,Man United,H
+2000-01,Leicester,Liverpool,A
+2000-01,Middlesbrough,Everton,H
+2000-01,Sunderland,Leeds,A
+2000-01,Tottenham,Coventry,D
+2000-01,Aston Villa,Charlton,D
+2000-01,Bradford,Southampton,H
+2000-01,Chelsea,Middlesbrough,H
+2000-01,Coventry,Ipswich,H
+2000-01,Leeds,Man City,H
+2000-01,Liverpool,Newcastle,H
+2000-01,Man United,Leicester,H
+2000-01,Sunderland,Derby,A
+2000-01,West Ham,Tottenham,D
+2000-01,Arsenal,Everton,H
+2000-01,Charlton,Leicester,H
+2000-01,Everton,Leeds,A
+2000-01,Middlesbrough,Aston Villa,H
+2000-01,Sunderland,Bradford,H
+2000-01,Tottenham,Liverpool,H
+2000-01,Derby,Man City,D
+2000-01,Man United,Coventry,H
+2000-01,Newcastle,West Ham,A
+2000-01,Southampton,Arsenal,H
+2000-01,Chelsea,Charlton,H
+2000-01,Leeds,Middlesbrough,D
+2000-01,Leicester,Bradford,D
+2000-01,Liverpool,Man United,H
+2000-01,Man City,Sunderland,H
+2000-01,West Ham,Derby,H
+2000-01,Aston Villa,Chelsea,D
+2000-01,Bradford,Liverpool,A
+2000-01,Charlton,Tottenham,D
+2000-01,Coventry,Man City,H
+2000-01,Derby,Leeds,H
+2000-01,Ipswich,Newcastle,D
+2000-01,Middlesbrough,Southampton,D
+2000-01,Sunderland,Everton,H
+2000-01,West Ham,Leicester,H
+2000-01,Arsenal,Man United,H
+2000-01,Chelsea,Coventry,H
+2000-01,Everton,Charlton,H
+2000-01,Leeds,Ipswich,H
+2000-01,Leicester,Sunderland,A
+2000-01,Liverpool,Middlesbrough,D
+2000-01,Man City,West Ham,H
+2000-01,Newcastle,Bradford,H
+2000-01,Southampton,Aston Villa,H
+2000-01,Tottenham,Arsenal,D
+2000-01,Arsenal,Chelsea,H
+2000-01,Aston Villa,Tottenham,D
+2000-01,Bradford,Leicester,D
+2000-01,Charlton,Everton,H
+2000-01,Coventry,Liverpool,A
+2000-01,Ipswich,Derby,D
+2000-01,Man United,Middlesbrough,A
+2000-01,Southampton,Leeds,H
+2000-01,Sunderland,Man City,A
+2000-01,West Ham,Newcastle,H
+2000-01,Leeds,Man United,A
+2000-01,Arsenal,Coventry,H
+2000-01,Bradford,Tottenham,D
+2000-01,Chelsea,Newcastle,D
+2000-01,Derby,Charlton,A
+2000-01,Everton,Leicester,H
+2000-01,Ipswich,Southampton,H
+2000-01,Liverpool,Man City,H
+2000-01,Middlesbrough,West Ham,H
+2000-01,Sunderland,Aston Villa,H
+2000-01,Tottenham,Liverpool,H
+2000-01,Man United,Bradford,H
+2000-01,Arsenal,Liverpool,H
+2000-01,Bradford,Man United,A
+2000-01,Charlton,Man City,H
+2000-01,Coventry,Leeds,H
+2000-01,Derby,Sunderland,D
+2000-01,Everton,Ipswich,D
+2000-01,Leicester,Aston Villa,H
+2000-01,Middlesbrough,Tottenham,H
+2000-01,Newcastle,Chelsea,H
+2000-01,Southampton,West Ham,H
+2000-01,West Ham,Leicester,D
+2000-01,Aston Villa,Charlton,D
+2000-01,Chelsea,Bradford,H
+2000-01,Ipswich,Derby,H
+2000-01,Leeds,Middlesbrough,H
+2000-01,Leicester,Sunderland,H
+2000-01,Liverpool,Coventry,H
+2000-01,Man City,Everton,H
+2000-01,Man United,Tottenham,H
+2000-01,West Ham,Arsenal,D
+2000-01,Bradford,Liverpool,H
+2000-01,Charlton,Leeds,A
+2000-01,Coventry,West Ham,D
+2000-01,Derby,Chelsea,A
+2000-01,Ipswich,Man City,D
+2000-01,Leicester,Arsenal,A
+2000-01,Middlesbrough,Soutmpton,D
+2000-01,Sunderland,Evert,H
+2000-01,Tottenham,Newcastle,H
+2000-01,Aston Villa,Mannited,A
+2000-01,Everton,Leicester,H
+2000-01,Man City,Aston VillH
+2000-01,Man United,Bradrd,H
+2000-01,Southampton,Ttenham,D
+2000-01,Sunderland,Middlesough,D
+2000-01,Newcastle,Derby,H
+2000-01,Aston Villa,West Ham,H
+2000-01,Charlton,Man United,A
+2000-01,Coventry,Everton,D
+2000-01,Derby,Leicester,H
+2000-01,Ipswich,Leeds,H
+2000-01,Liverpool,Southampton,H
+2000-01,Man City,Middlesbrough,A
+2000-01,Tottenham,Chelsea,A
+2000-01,Watford,Newcastle,D
+2000-01,Arsenal,Man City,H
+2000-01,Bradford,Tottenham,H
+2000-01,Chelsea,Watford,H
+2000-01,Everton,Aston Villa,A
+2000-01,Leeds,Coventry,H
+2000-01,Leicester,Charlton,A
+2000-01,Middlesbrough,Ipswich,H
+2000-01,Newcastle,Derby,H
+2000-01,Southampton,Liverpool,A
+2000-01,Tottenham,Man United,D
+2000-01,West Ham,Man City,D
+2000-01,Arsenal,Bradford,H
+2000-01,Coventry,Tottenham,A
+2000-01,Derby,Everton,D
+2000-01,Leeds,Chelsea,D
+2000-01,Liverpool,Middlesbrough,H
+2000-01,Man City,Leicester,D
+2000-01,Man United,Southampton,H
+2000-01,Sunderland,Newcastle,H
+2000-01,West Ham,Aston Villa,H
+2000-01,Charlton,Ipswich,H
+2000-01,Bradford,Leeds,A
+2000-01,Chelsea,Man CitH
+2000-01,Derby,Tottenh,H
+2000-01,Everton,Sunderla,H
+2000-01,Ipswich,Liveool,H
+2000-01,Leicester,Arsen,D
+2000-01,Middlesbrough,Chlton,H
+2000-01,Southampton,We Ham,H
+2000-01,Man United,Newcast,H
+2000-01,Aston Villa,Dey,D
+2000-01,Charlton,Midesbrough,D
+2000-01,Liverpool,Man Unid,H
+2000-01,Arsenal,Derby,H
+2000-01,Leicester,Ipswich,H
+2000-01,Man United,Coventry,H
+2000-01,Tottenham,Leeds,A
+2000-01,West Ham,Bradford,H
+2000-01,Aston Villa,Arsenal,D
+2000-01,Derby,Sunderland,A
+2000-01,Ipswich,Leicester,H
+2000-01,Man City,Southampton,D
+2000-01,Newcastle,Middlesbrough,D
+2000-01,Chelsea,Man United,A
+2000-01,Arsenal,Newcastle,H
+2000-01,Charlton,West Ham,A
+2000-01,Coventry,Liverpool,A
+2000-01,Derby,Leeds,D
+2000-01,Ipswich,Sunderland,H
+2000-01,Leicester,Bradford,H
+2000-01,Middlesbrough,Aston Villa,D
+2000-01,Southampton,Man City,H
+2000-01,West Ham,Chelsea,A
+2000-01,Man United,Tottenham,H
+2000-01,Bradford,Charlton,D
+2000-01,Leeds,Man City,D
+2000-01,Newcastle,Arsenal,D
+2000-01,Sunderland,Leicester,D
+2000-01,Tottenham,Coventry,H
+2000-01,Aston Villa,Middlesbrough,H
+2000-01,Chelsea,Derby,H
+2000-01,Liverpool,Ipswich,H
+2000-01,Man United,West Ham,H
+2000-01,Southampton,Everton,D
+2000-01,Arsenal,Coventry,H
+2000-01,Bradford,Leicester,A
+2000-01,Charlton,Chelsea,D
+2000-01,Derby,Southampton,A
+2000-01,Leeds,Sunderland,A
+2000-01,Leicester,West Ham,D
+2000-01,Liverpool,Man City,H
+2000-01,Middlesbrough,Man United,A
+2000-01,Tottenham,Aston Villa,H
+2000-01,Everton,Ipswich,H
+2000-01,Coventry,Leicester,D
+2000-01,Man City,Charlton,H
+2000-01,Newcastle,Liverpool,H
+2000-01,Arsenal,Leicester,D
+2000-01,Chelsea,Liverpool,D
+2000-01,Derby,Bradford,H
+2000-01,Ipswich,Tottenham,H
+2000-01,Leeds,West Ham,D
+2000-01,Middlesbrough,Sunderland,D
+2000-01,Southampton,Newcastle,H
+2000-01,Man City,Man United,D
+2000-01,West Ham,Leeds,A
+2000-01,Bradford,Charlton,H
+2000-01,Derby,Middlesbrough,A
+2000-01,Leicester,Southampton,H
+2000-01,Man United,Coventry,H
+2000-01,Newcastle,Man City,A
+2000-01,Sunderland,Ipswich,H
+2000-01,Tottenham,Everton,H
+2000-01,Aston Villa,Chelsea,H
+2000-01,Charlton,Man United,A
+2000-01,Coventry,Bradford,H
+2000-01,Derby,Sunderland,D
+2000-01,Everton,Leeds,A
+2000-01,Ipswich,Leicester,H
+2000-01,Liverpool,West Ham,H
+2000-01,Man City,Middlesbrough,D
+2000-01,Southampton,Arsenal,A
+2000-01,Tottenham,Newcastle,D
+2000-01,Arsenal,West Ham,H
+2000-01,Leicester,Aston Villa,D
+2000-01,West Ham,Derby,H
+2000-01,Bradford,Southampton,A
+2000-01,Chelsea,Ipswich,H
+2000-01,Leeds,Liverpool,H
+2000-01,Middlesbrough,Charlton,D
+2000-01,Sunderland,Man City,D
+2000-01,Coventry,Tottenham,A
+2000-01,Newcastle,Man United,H
+2000-01,Aston Villa,Ipswich,H
+2000-01,Charlton,Bradford,H
+2000-01,Derby,Chelsea,A
+2000-01,Everton,Coventry,H
+2000-01,Liverpool,Sunderland,H
+2000-01,Man City,Leeds,A
+2000-01,Man United,Arsenal,H
+2000-01,Southampton,West Ham,D
+2000-01,Tottenham,Leicester,H
+2000-01,West Ham,Middlesbrough,H
+2000-01,Arsenal,Charlton,H
+2000-01,Bradford,Everton,D
+2000-01,Chelsea,Man United,H
+2000-01,Coventry,Leeds,D
+2000-01,Ipswich,Southampton,H
+2000-01,Leicester,Derby,D
+2000-01,Liverpool,Man City,D
+2000-01,Middlesbrough,Tottenham,D
+2000-01,Sunderland,Aston Villa,D
+2000-01,Man United,West Ham,A
+2000-01,Aston Villa,Bradford,H
+2000-01,Charlton,Chelsea,H
+2000-01,Derby,Liverpool,D
+2000-01,Leeds,Coventry,D
+2000-01,Man City,West Ham,A
+2000-01,Southampton,Ipswich,H
+2000-01,Tottenham,Middlesbrough,H
+2000-01,Leicester,Arsenal,D
+2000-01,Man United,Newcastle,H
+2000-01,Everton,Sunderland
+2000-01,Chelsea,Leicester,A
+2000-01,Ipswich,Aston Villa
+2000-01,West Ham,LeicesteD
+2000-01,Bradford,Southampton,A
+2000-01,Derby,Tottenham,A
+2000-01,Liverpool,Coventry,H
+2000-01,Man City,Middlesbrgh,H
+2000-01,Newcastle,Arsel,D
+2000-01,Sunderland,M United,A
+2000-01,Charlton,West Ham,H
+2000-01,Arsenal,Sunderland,H
+2000-01,Chelsea,Charlton,H
+2000-01,Coventry,Newcastle,H
+2000-01,Leeds,Liverpool,H
+2000-01,Leicester,Bradford,H
+2000-01,Middlesbrough,Derby,H
+2000-01,Southampton,Tottenham,H
+2000-01,West Ham,Ipswich,H
+2000-01,Man United,Aston Villa,H
+2000-01,Aston Villa,Coventry,H
+2000-01,Bradford,Leicester,D
+2000-01,Charlton,Middlesbrough,A
+2000-01,Derby,West Ham,D
+2000-01,Ipswich,Everton,H
+2000-01,Liverpool,Chelsea,H
+2000-01,Man City,Southampton,H
+2000-01,Newcastle,Leeds,H
+2000-01,Tottenham,Man United,H
+2000-01,Leeds,Aston Villa,H
+2000-01,Middlesbrough,Ipswich,D
+2000-01,Southampton,Derby,H
+2000-01,West Ham,Charlton,H
+2000-01,Aston Villa,Tottenham,H
+2000-01,Charlton,Leicester,D
+2000-01,Coventry,Middlesbrough,H
+2000-01,Derby,Southampton,A
+2000-01,Ipswich,Man City,H
+2000-01,Leeds,West Ham,D
+2000-01,Leicester,Liverpool,H
+2000-01,Man United,Derby,A
+2000-01,Sunderland,Arsenal,A
+2000-01,Tottenham,Bradford,H
+2000-01,Chelsea,Newcastle,D
+2000-01,Everton,Man United,H
+2000-01,Arsenal,Middlesbrough,H
+2000-01,Chelsea,West Ham,H
+2000-01,Coventry,Southampton,A
+2000-01,Leicester,Aston Villa,D
+2000-01,Liverpool,Bradford,H
+2000-01,Man City,Charlton,H
+2000-01,Newcastle,Leeds,A
+2000-01,Tottenham,Everton,H
+2000-01,Sunderland,Ipswich,H
+2000-01,Man United,Fulham,H
+2000-01,Aston Villa,Tottenham,H
+2000-01,Bradford,Newcastle,H
+2000-01,Charlton,Coventry,D
+2000-01,Everton,Leicester,D
+2000-01,Fulham,Chelsea,A
+2000-01,Ipswich,Man City,D
+2000-01,Leeds,Liverpool,H
+2000-01,Middlesbrough,Sunderland,D
+2000-01,Southampton,Arsenal,A
+2000-01,West Ham,Man United,D
+2000-01,Arsenal,Leicester,H
+2000-01,Chelsea,West Ham,H
+2000-01,Coventry,Leeds,A
+2000-01,Leicester,Bradford,H
+2000-01,Liverpool,Southampton,H
+2000-01,Man City,Ipswich,D
+2000-01,Newcastle,Fulham,D
+2000-01,Tottenham,Charlton,D
+2000-01,Aston Villa,Middlesbrough,H
+2000-01,Sunderland,Man United,D
+2000-01,Bradford,Arsenal,D
+2000-01,Charlton,Leicester,D
+2000-01,Fulham,Tottenham,H
+2000-01,Ipswich,Newcastle,H
+2000-01,Leeds,Man City,D
+2000-01,Middlesbrough,Chelsea,A
+2000-01,Southampton,West Ham,D
+2000-01,Arsenal,Southampton,H
+2000-01,Chelsea,Aston Villa,D
+2000-01,Leicester,Middlesbrough,D
+2000-01,Man City,Fulham,H
+2000-01,Newcastle,Sunderland,D
+2000-01,Tottenham,Leeds,H
+2000-01,West Ham,Bradford,H
+2000-01,Arsenal,Charlton,H
+2000-01,Bradford,Middlesbrough,A
+2000-01,Derby,Chelsea,H
+2000-01,Ipswich,Leeds,A
+2000-01,Leicester,Sunderland,H
+2000-01,Liverpool,Fulham,H
+2000-01,Man City,West Ham,D
+2000-01,Southampton,Newcastle,A
+2000-01,Aston Villa,Man United,H
+2000-01,Tottenham,Arsenal,D
+2000-01,West Ham,Ipswich,A
+2000-01,Charlton,Man City,D
+2000-01,Chelsea,Leicester,A
+2000-01,Leeds,Southampton,H
+2000-01,Newcastle,Coventry,H
+2000-01,Southampton,Charlton,D
+2000-01,West Ham,Sunderland,A
+2000-01,Ipswich,Leicester,H
+2000-01,Chelsea,Ipswich,H
+2000-01,Coventry,Everton,A
+2000-01,Derby,Man City,D
+2000-01,Leeds,Newcastle,A
+2000-01,Leicester,Arsenal,D
+2000-01,Liverpool,Middlesbrough,D
+2000-01,Man United,Aston Villa,H
+2000-01,Tottenham,Southampton,D
+2000-01,Sunderland,Bradford,D
+2000-01,Charlton,West Ham,D
+2000-01,Aston Villa,Leeds,A
+2000-01,Arsenal,Bradford,H
+2000-01,Charlton,Derby,H
+2000-01,Chelsea,Newcastle,H
+2000-01,Everton,Middlesbrough,D
+2000-01,Leeds,Coventry,H
+2000-01,Man City,Liverpool,D
+2000-01,Southampton,Leicester,H
+2000-01,Sunderland,Man United,A
+2000-01,West Ham,Tottenham,D
+2000-01,Bradford,Aston Villa,A
+2000-01,Coventry,Arsenal,A
+2000-01,Derby,Sunderland,H
+2000-01,Ipswich,Leeds,A
+2000-01,Leicester,Chelsea,H
+2000-01,Liverpool,West Ham,H
+2000-01,Man United,Everton,H
+2000-01,Middlesbrough,Man City,D
+2000-01,Tottenham,Charlton,D
+2000-01,Everton,Leeds,D
+2000-01,Arsenal,Ipswich,H
+2000-01,Aston Villa,Middlesbrough,D
+2000-01,Chelsea,Man United,D
+2000-01,Everton,Leicester,H
+2000-01,Leeds,Derby,D
+2000-01,Man City,Tottenham,A
+2000-01,Southampton,Bradford,H
+2000-01,Sunderland,Liverpool,D
+2000-01,West Ham,Tottenham,D
+2000-01,Bradford,Aston Villa,A
+2000-01,Coventry,Arsenal,A
+2000-01,Derby,Sunderland,H
+2000-01,Ipswich,Leeds,A
+2000-01,Leicester,Chelsea,H
+2000-01,Liverpool,West Ham,H
+2000-01,Man United,Everton,H
+2000-01,Middlesbrough,Man City,D
+2000-01,Tottenham,Charlton,D
+2000-01,Bradford,West Ham,A
+2000-01,Coventry,Charlton,D
+2000-01,Derby,Aston Villa,H
+2000-01,Ipswich,Everton,H
+2000-01,Leicester,Sunderland,H
+2000-01,Middlesbrough,Southampton,A
+2000-01,Newcastle,Man City,A
+2000-01,Tottenham,Leeds,A
+2000-01,Man United,Arsenal,H
+2000-01,Arsenal,West Ham
+2000-01,Coventry,Chelsea,D
+H000-01,Everton,Newcastle,D
+2000-01,Leeds,Man UniteD
+2000-01,Leicester,LiverpooH
+2000-01,Man City,SouthamptoA
+2000-01,Middlesbrough,Chaton,D
+2000-01,Ipswich,Bradford,H
+00-01,Sunderland,Aston Villa,D
+H000-01,Bradford,Man City,D
+2000-01,Charlton,Leeds,A
+2000-01,Man United,Leicester,H
+2000-01,Newcastle,MiddlesbrougA
+2000-01,Tottenham,Coventry,H
+2000-01,West Ham,Liverpool,D
+2000-01,Arsenal,Charlton,H
+2000-01,Bradford,Tottenham,D
+2000-01,Coventry,Leicester,H
+2000-01,Everton,Man United,A
+2000-01,Ipswich,Chelsea,D
+2000-01,Leeds,Man City,D
+2000-01,Liverpool,Southampton,H
+2000-01,Middlesbrough,Aston Villa,A
+2000-01,Newcastle,Everton,H
+2000-01,Sunderland,Arsenal,A
+2000-01,West Ham,Derby,A
+2017-18,Arsenal,Leicester,H
+2017-18,Brighton,Man City,A
+2017-18,Chelsea,Burnley,A
+2017-18,Crystal Palace,Huddersfield,A
+2017-18,Everton,Stoke,H
+2017-18,Southampton,Swansea,D
+2017-18,Watford,Liverpool,D
+2017-18,West Brom,Bournemouth,H
+2017-18,Man United,West Ham,H
+2017-18,Newcastle,Tottenham,A
+2017-18,Bournemouth,Watford,A
+2017-18,Burnley,West Brom,A
+2017-18,Leicester,Brighton,H
+2017-18,Liverpool,Crystal Palace,H
+2017-18,Southampton,West Ham,H
+2017-18,Stoke,Arsenal,H
+2017-18,Swansea,Man United,A
+2017-18,Huddersfield,Newcastle,H
+2017-18,Tottenham,Chelsea,A
+2017-18,Man City,Everton,D
+2017-18,Bournemouth,Man City,A
+2017-18,Crystal Palace,Swansea,A
+2017-18,Huddersfield,Southampton,D
+2017-18,Man United,Leicester,H
+2017-18,Newcastle,West Ham,H
+2017-18,Watford,Brighton,D
+2017-18,Chelsea,Everton,H
+2017-18,Liverpool,Arsenal,H
+2017-18,Tottenham,Burnley,D
+2017-18,West Brom,Stoke,D
+2017-18,Arsenal,Bournemouth,H
+2017-18,Brighton,West Brom,H
+2017-18,Everton,Tottenham,A
+2017-18,Leicester,Chelsea,A
+2017-18,Man City,Liverpool,H
+2017-18,Southampton,Watford,A
+2017-18,Stoke,Man United,D
+2017-18,Burnley,Crystal Palace,H
+2017-18,Swansea,Newcastle,A
+2017-18,West Ham,Huddersfield,H
+2017-18,Bournemouth,Brighton,H
+2017-18,Crystal Palace,Southampton,A
+2017-18,Huddersfield,Leicester,D
+2017-18,Liverpool,Burnley,D
+2017-18,Newcastle,Stoke,H
+2017-18,Tottenham,Swansea,D
+2017-18,Watford,Man City,A
+2017-18,West Brom,West HaD
+2017-18,Chelsea,Arsenal,D
+2017-18,Man United,Everton,H
+2017-18,Brighton,Newcale,H
+2017-18,Crystal Palace,Sohampton,A
+2017-18,Huddersfield,Totteam,A
+2017-18,Liverpool,BurnleD
+2017-18,Man United,Everton
+2017-18,Stoke,Chelsea,A
+2017-18,Swansea,Watrd,A
+2017-18,West Ham,Tottenh,A
+2017-18,Arsenal,West Brom,H
+2017-18,Bournemouth,Briton,H
+2017-18,Man United,Everton,H
+2017-18,Huddersfield,Leiceer,D
+2017-18,Bournemouth,Leicester,D
+2017-18,Man United,Crystal Palace,H
+2017-18,Stoke,Southampton,H
+2017-18,Arsenal,Brighton,H
+2017-18,Chelsea,Man City,A
+2017-18,Everton,Burnley,A
+2017-18,Newcastle,Liverpool,D
+2017-18,Watford,West Brom,D
+2017-18,West Ham,Swansea,H
+2017-18,Crystal Palace,Chelsea,H
+2017-18,Liverpool,Man United,D
+2017-18,Man City,Stoke,H
+2017-18,Southampton,Newcastle,D
+2017-18,Swansea,Huddersfield,H
+2017-18,Tottenham,Bournemouth,H
+2017-18,Burnley,West Ham,D
+2017-18,Everton,Arsenal,A
+2017-18,Watford,Arsenal,H
+2017-18,Brighton,Everton,D
+2017-18,Chelsea,Watford,H
+2017-18,Arsenal,Swansea,H
+2017-18,Bournemouth,Stoke,A
+2017-18,Huddersfield,Man United,H
+2017-18,Man City,Burnley,H
+2017-18,Newcastle,Crystal Palace,H
+2017-18,Southampton,West Brom,H
+2017-18,West Ham,Brighton,A
+2017-18,Everton,Arsenal,A
+2017-18,Tottenham,Liverpool,H
+2017-18,Man United,Tottenham,H
+2017-18,Stoke,Watford,A
+2017-18,West Brom,Man City,A
+2017-18,Bournemouth,Chelsea,A
+2017-18,Brighton,Southampton,D
+2017-18,Leicester,Everton,H
+2017-18,Liverpool,Huddersfield,H
+2017-18,West Ham,Crystal Palace,D
+2017-18,Arsenal,Swansea,H
+2017-18,Crystal Palace,West Ham,D
+2017-18,Liverpool,Huddersfield,H
+2017-18,Man United,Tottenham,H
+2017-18,Watford,Stoke,A
+2017-18,West Brom,Man City,A
+2017-18,Bournemouth,Chelsea,A
+2017-18,Brighton,Southampton,D
+2017-18,Leicester,Everton,H
+2017-18,Newcastle,Burnley,A
+2017-18,Swansea,Brighton,A
+2017-18,Arsenal,Tottenham,H
+2017-18,Bournemouth,Huddersfield,H
+2017-18,Burnley,Swansea,H
+2017-18,Crystal Palace,Everton,D
+2017-18,Leicester,Man City,A
+2017-18,Liverpool,Southampton,H
+2017-18,Man United,Newcastle,H
+2017-18,West Brom,Chelsea,A
+2017-18,Watford,West Ham,H
+2017-18,Brighton,Stoke,D
+2017-18,Watford,West Ham,H
+2017-18,West Ham,Leicester,D
+2017-18,Crystal Palace,Stoke,H
+2017-18,Man United,Brighton,H
+2017-18,Newcastle,Watford,A
+2017-18,Swansea,Bournemouth,D
+2017-18,Tottenham,West Brom,D
+2017-18,Southampton,Everton,H
+2017-18,Liverpool,Chelsea,D
+2017-18,Huddersfield,Man City,A
+2017-18,Brighton,Crystal Palace,D
+2017-18,Leicester,Tottenham,H
+2017-18,Watford,Man United,A
+2017-18,West Brom,Newcastle,D
+2017-18,Arsenal,Huddersfield,H
+2017-18,Bournemouth,Burnley,A
+2017-18,Brighton,Liverpool,A
+2017-18,Everton,Huddersfield,H
+2017-18,Leicester,Burnley,H
+2017-18,Stoke,Swansea,H
+2017-18,Watford,Tottenham,D
+2017-18,West Brom,Crystal Palace,D
+2017-18,Arsenal,Man United,A
+2017-18,Bournemouth,Southampton,D
+2017-18,Man City,West Ham,H
+2017-18,Chelsea,Newcastle,H
+2017-18,Man City,Southampton,H
+2017-18,Everton,West Ham,H
+2017-18,Burnley,Stoke,H
+2017-18,Crystal Palace,Watford,H
+2017-18,Leicester,Tottenham,H
+2017-18,Watford,Man United,A
+2017-18,Arsenal,Huddersfield,H
+2017-18,Bournemouth,Burnley,A
+2017-18,Brighton,Crystal Palace,D
+2017-18,Chelsea,West Ham,H
+2017-18,Stoke,Swansea,H
+2017-18,Watford,Tottenham,D
+2017-18,West Brom,Crystal Palace,D
+2017-18,Arsenal,Man United,A
+2017-18,Bournemouth,Southampton,D
+2017-18,Man City,West Ham,H
+2017-18,Chelsea,Newcastle,H
+2017-18,Everton,Huddersfield,H
+2017-18,Leicester,Tottenham,H
+2017-18,Stoke,Swansea,H
+2017-18,Watford,Tottenham,D
+2017-18,West Brom,Crystal Palace,D
+2017-18,Arsenal,Man United,A
+2017-18,Bournemouth,Southampton,D
+2017-18,Man City,West Ham,H
+2017-18,Chelsea,Newcastle,H
+2017-18,Everton,Huddersfield,H
+2017-18,Leicester,Tottenham,H
+2017-18,Stoke,Swansea,H
+2017-18,Watford,Tottenham,D
+2017-18,West Brom,Crystal Palace,D
+2017-18,Arsenal,Man United,A
+2017-18,Bournemouth,Southampton,D
+2017-18,Man City,West Ham,H
+2017-18,Chelsea,Newcastle,H
+2017-18,Everton,Huddersfield,H
+2017-18,Leicester,Tottenham,H
+2017-18,Stoke,Swansea,H
+2017-18,Watford,Tottenham,D
+2017-18,West Brom,Crystal Palace,D
+2017-18,Arsenal,Man United,A
+2017-18,Bournemouth,Southampton,D
+2017-18,Man City,West Ham,H
+2017-18,Chelsea,Newcastle,H
+2017-18,Everton,Huddersfield,H
+2017-18,Leicester,Tottenham,H
+2017-18,Stoke,Swansea,H
+2017-18,Watford,Tottenham,D
+2017-18,West Brom,Crystal Palace,D
+2017-18,Arsenal,Man United,A
+2017-18,Bournemouth,Southampton,D
+2017-18,Man City,West Ham,H
+2017-18,Chelsea,Newcastle,H
+2017-18,Everton,Huddersfield,H
+2017-18,Leicester,Tottenham,H
+2017-18,Stoke,Swansea,H
+2017-18,Watford,Tottenham,D
+2017-18,West Brom,Crystal Palace,D
+2017-18,Arsenal,Man United,A
+2017-18,Bournemouth,Southampton,D
+2017-18,Man City,West Ham,H
+2017-18,Chelsea,Newcastle,H
+2017-18,Everton,Huddersfield,H
+2017-18,Leicester,Tottenham,H
+2017-18,Stoke,Swansea,H
+2017-18,Watford,Tottenham,D
+2017-18,West Brom,Crystal Palace,D
+2017-18,Arsenal,Man United,A
+2017-18,Bournemouth,Southampton,D
+2017-18,Man City,West Ham,H
+2017-18,Chelsea,Newcastle,H
+2017-18,Everton,Huddersfield,H
+2017-18,Leicester,Tottenham,H
+2017-18,Stoke,Swansea,H
+2017-18,Watford,Tottenham,D
+2017-18,West Brom,Crystal Palace,D
+2017-18,Arsenal,Man United,A
+2017-18,Bournemouth,Southampton,D
+2017-18,Man City,West Ham,H
+2017-18,Chelsea,Newcastle,H
+2017-18,Everton,Huddersfield,H
+2017-18,Leicester,Tottenham,H
+2017-18,Stoke,Swansea,H
+2017-18,Watford,Tottenham,D
+2017-18,West Brom,Crystal Palace,D
+2017-18,Arsenal,Man United,A
+2017-18,Bournemouth,Southampton,D
+2017-18,Man City,West Ham,H
+2017-18,Chelsea,Newcastle,H
+2017-18,Everton,Huddersfield,H
+2017-18,Leicester,Tottenham,H
+2017-18,Stoke,Swansea,H
+2017-18,Watford,Tottenham,D
+2017-18,West Brom,Crystal Palace,D
+2017-18,Arsenal,Man United,A
+2017-18,Bournemouth,Southampton,D
+2017-18,Man City,West Ham,H
+2017-18,Chelsea,Newcastle,H
+2017-18,Everton,Huddersfield,H
+2017-18,Leicester,Tottenham,H
+2017-18,Stoke,Swansea,H
+2017-18,Watford,Tottenham,D
+2017-18,West Brom,Crystal Palace,D
+2017-18,Arsenal,Man United,A
+2017-18,Bournemouth,Southampton,D
+2017-18,Man City,West Ham,H
+2017-18,Chelsea,Newcastle,H
+2017-18,Everton,Huddersfield,H
+2017-18,Leicester,Tottenham,H
+2017-18,Stoke,Swansea,H
+2017-18,Watford,Tottenham,D
+2017-18,West Brom,Crystal Palace,D
+2017-18,Arsenal,Man United,A
+2017-18,Bournemouth,Southampton,D
+2017-18,Man City,West Ham,H
+2017-18,Chelsea,Newcastle,H
+2017-18,Everton,Huddersfield,H
+2017-18,Leicester,Tottenham,H
+2017-18,Stoke,Swansea,H
+2017-18,Watford,Tottenham,D
+2017-18,West Brom,Crystal Palace,D
+2017-18,Arsenal,Man United,A
+2017-18,Bournemouth,Southampton,D
+2017-18,Man City,West Ham,H
+2017-18,Chelsea,Newcastle,H
+2017-18,Everton,Huddersfield,H
+2017-18,Leicester,Tottenham,H
+2017-18,Stoke,Swansea,H
+2017-18,Watford,Tottenham,D
+2017-18,West Brom,Crystal Palace,D
+2017-18,Arsenal,Man United,A
+2017-18,Bournemouth,Southampton,D
+2017-18,Man City,West Ham,H
+2017-18,Chelsea,Newcastle,H
+2017-18,Everton,Huddersfield,H
+2017-18,Leicester,Tottenham,H
+2017-18,Stoke,Swansea,H
+2017-18,Watford,Tottenham,D
+2017-18,West Brom,Crystal Palace,D
+2021-22,Brentford,Newcastle,A
+2021-22,Crystal Palace,Burnley,D
+2021-22,Man United,Watford,D
+2021-22,Brighton,Aston Villa,A
+2021-22,Everton,Man City,A
+2021-22,West Ham,Wolves,H
+2021-22,Burnley,Leicester,A
+2021-22,Leicester,Leeds,H
+2021-22,Aston Villa,Southampton,H
+2021-22,Burnley,Chelsea,A
+2021-22,Newcastle,Brighton,H
+2021-22,Norwich,Brentford,A
+2021-22,Wolves,Crystal Palace,A
+2021-22,Liverpool,West Ham,H
+2021-22,Watford,Arsenal,A
+2021-22,Man City,Man United,H
+2021-22,Tottenham,Everton,H
+2021-22,Norwich,Chelsea,A
+2021-22,Southampton,Newcastle,A
+2021-22,Wolves,Watford,H
+2021-22,Leeds,Aston Villa,A
+2021-22,Brighton,Liverpool,A
+2021-22,Brentford,Burnley,H
+2021-22,Man United,Tottenham,H
+2021-22,Chelsea,Newcastle,H
+2021-22,Everton,Wolves,A
+2021-22,Leeds,Norwich,H
+2021-22,Southampton,Watford,A
+2021-22,West Ham,Aston Villa,H
+2021-22,Arsenal,Leicester,H
+2021-22,Crystal Palace,Man City,D
+2021-22,Brighton,Tottenham,A
+2021-22,Arsenal,Liverpool,A
+2021-22,Everton,Newcastle,H
+2021-22,Wolves,Leeds,A
+2021-22,Aston Villa,Arsenal,A
+2021-22,Leicester,Brentford,H
+2021-22,Tottenham,West Ham,H
+2021-22,Liverpool,Watford,H
+2021-22,Brighton,Norwich,D
+2021-22,Burnley,Man City,A
+2021-22,Chelsea,Brentford,A
+2021-22,Leeds,Southampton,D
+2021-22,Wolves,Aston Villa,H
+2021-22,Man United,Leicester,D
+2021-22,West Ham,Everton,H
+2021-22,Tottenham,Newcastle,H
+2021-22,Crystal Palace,Arsenal,H
+2021-22,Burnley,Everton,H
+2021-22,Newcastle,Wolves,H
+2021-22,Everton,Man United,H
+2021-22,Arsenal,Brighton,A
+2021-22,Southampton,Chelsea,A
+2021-22,Aston Villa,Tottenham,A
+2021-22,Leicester,Crystal Palace,H
+2021-22,Norwich,Burnley,H
